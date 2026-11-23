@@ -23,8 +23,8 @@ class CalculatorTest {
         assertEquals(200, calculator.multiply(10, 20));
     }
 
-//    @Test
-//    void testAddition() {
-//        assertEquals(50, calculator.add(10, 20));
-//    }
+    @Test
+    void testAddition2() {
+        assertEquals(50, calculator.add(10, 20));
+    }
 }
